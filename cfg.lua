@@ -1,11 +1,11 @@
 ---Config with all global variables
 cfg = {
-    commandName = 'emotePanel', -- Open the animations panel
+    commandName = 'emotecok', -- Open the animations panel
     commandSuggestion = 'Open the emote panel', -- Open the animations panel suggestion
     commandNameEmote = 'e', -- Play an animation by command
     commandNameSuggestion = 'Play an animation by command', -- Play an animation by command suggestion
     keyActive = false, -- Use key for opening the panel
-    keyLetter = 'F5', -- Which key for opening the panel if cfg.keyActive is true
+    keyLetter = 'F3', -- Which key for opening the panel if cfg.keyActive is true
     keySuggestion = 'Open the emote panel by key', -- Suggestion on keybind mapping
     walkingTransition = 0.5,
 
